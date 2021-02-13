@@ -1,0 +1,201 @@
+[{
+    "crisis": false,
+    "type": ["apps", "information"],
+    "genre": [],
+    "title": "ADAA List of Mobile Apps",
+    "location": ["international"],
+    "address": ["https://adaa.org/finding-help/mobile-apps"],
+    "description": "If you're overwhelmed by the number of options, ADAA ranks some self-help apps on several criteria, such as cost, effectiveness etc."
+}, {
+    "crisis": false,
+    "type": ["chat", "apps", "peersupport"],
+    "genre": [],
+    "title": "Big White Wall",
+    "location": ["United Kingdom"],
+    "address": ["www.bigwhitewall.com/landing\n020 3741 808"],
+    "description": "An anonymous 24.7 service where you can discuss troubles and anxieties with others. It is supported by trained professionals. 16 +"
+}, {
+    "crisis": false,
+    "type": ["government", "phone", "support", "organisation"],
+    "genre": ["children", "youth", "abuse"],
+    "title": "Childline UK",
+    "location": ["United Kingdom"],
+    "address": ["www.childline.org.uk\n 0800 1111 (24 hours)"],
+    "description": "Respected helpline for children and young people that provides a confidential telephone counselling service for children with problems."
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone"],
+    "genre": ["drug misuse"],
+    "title": "Frank",
+    "location": ["United Kingdom"],
+    "address": ["www.talktofrank.com\n0800 77 66 00 24 hour service"],
+    "description": "Confidential information and advice for those worried about their own or others’ drug or solvent misuse. Free from landline. The call won’t appear on phone bill."
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone"],
+    "genre": ["youth"],
+    "title": "Get Conntected",
+    "location": ["United Kingdom"],
+    "address": ["www.getconnected.org.uk"],
+    "description": "Freephone 0808 808 4994 7 days a week 1pm-11pm confidential telephone and email helpline for young people with a problem."
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone"],
+    "genre": ["children", "abuse"],
+    "title": "NSPCC",
+    "location": ["United Kingdom"],
+    "address": ["www.nspcc.org.uk"],
+    "description": "A national charity that works to help support children suffering from abuse"
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone"],
+    "genre": ["youth", "children", "abuse"],
+    "title": "Papyrus",
+    "location": ["United Kingdom"],
+    "address": ["pat@papyrus-uk.org\nhttps://www.papyrus-uk.org"],
+    "description": "A national charity helping to prevent young people committing suicide. Contactthrough HOPELineUK 0800 068 4141Weekdays: 10am-10pm, weekends and bank holidays: 2pm-5pm. A specialist telephone service staffed by trained professionals who give non-judgmental support, practical advice and information to anyone up to 35 or those concerned about a young person."
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone", "text", "email"],
+    "genre": [],
+    "title": "Samaritans UK",
+    "location": ["United Kingdom", "Ireland"],
+    "address": ["www.samaritans.org\nTel: 116 123 247"],
+    "description": "Samaritans' volunteers listen in confidence to anyone in emotional distress. They are neither judgemental or tell callers what to do."
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone", "text", "email"],
+    "genre": [],
+    "title": "Sane",
+    "location": ["United Kingdom"],
+    "address": ["www.sane.org.uk\n0845 767 8000 6pm to 11pm every day"],
+    "description": "Leading UK mental health charity for anyone affected by mental illness"
+}, {
+    "crisis": false,
+    "type": ["phone"],
+    "genre": ["youth"],
+    "title": "The Site",
+    "location": ["United Kingdom"],
+    "address": ["www.thesite.org\n0800 1111"],
+    "description": "Website for 16-25 year olds. Provides non-judmenetal support and information, including sex issues, exam stress, debt and drugs"
+}, {
+    "crisis": false,
+    "type": ["directory"],
+    "genre": ["youth"],
+    "title": "Youth Access",
+    "location": ["United Kingdom"],
+    "address": ["youthaccess.org.uk"],
+    "description": "To search the directory of services for help in your area"
+}, {
+    "crisis": false,
+    "type": ["information", "organisation", "phone"],
+    "genre": ["youth", "parenting"],
+    "title": "Minded",
+    "location": ["United Kingdom"],
+    "address": ["minded.org.uk"],
+    "description": "Free Confidential parent helpline for adults worried about emotional problems, behaviour or mental health for individuals up to 25."
+}, {
+    "crisis": true,
+    "type": ["phone", "text"],
+    "genre": ["disaster"],
+    "title": "Disaster Distress Helpline",
+    "location": ["United States"],
+    "address": ["Call 800-985-5990(TTY 800-846-8517) or text TalkWithUs to 66746 for 24/7 support"],
+    "description": "The Disaster Distress Helpline, 1-800-985-5990, is a 24/7, 365-day-a-year, national hotline dedicated to providing immediate crisis counseling for people who are experiencing emotional distress related to any natural or human-caused disaster. This toll-free, multilingual, and confidential crisis support service is available to all residents in the United States and its territories. Stress, anxiety, and other depression-like symptoms are common reactions after a disaster. Call or text 1-800-985-5990 to connect with a trained crisis counselor."
+}, {
+    "crisis": true,
+    "type": ["text"],
+    "genre": [],
+    "title": "Crisis Text Line",
+    "location": ["United States"],
+    "address": ["Text HOME to 74141"],
+    "description": "Text HOME to 741741 from anywhere in the United States, anytime. Crisis Text Line is here for any crisis. A live, trained Crisis Counselor receives the text and responds, all from our secure online platform. The volunteer Crisis Counselor will help you move from a hot moment to a cool moment."
+}, {
+    "crisis": false,
+    "type": ["phone", "text", "organisation"],
+    "genre": ["youth", "children"],
+    "title": "Teen Line",
+    "location": ["United States"],
+    "address": ["Teens can talk to another teen by texting “TEEN” to 839863 from 6pm – 9pm, or call 800-852-8336 from 6pm – 10pm."],
+    "description": "TEEN LINE is a non-profit, community based organization that provides emotional support to youth. It is our mission to provide peer based education and support before problems become a crisis, using a national hotline, community outreach and online support."
+}, {
+    "crisis": false,
+    "type": ["phone"],
+    "genre": ["peersupport"],
+    "title": "CalHOPE Warm Line",
+    "location": ["California"],
+    "address": ["Call 833-317-HOPE (4673) Monday – Friday from 7am – 11pm for COVID-19 specific non-emergency support."],
+    "description": "Are you frustrated? Stressed? Worried? Then call to talk with people like yourself and get emotional support and coping tricks. We can connect you with resources to help during these uncertain times."
+}, {
+    "crisis": true,
+    "type": ["phone", "chat", "text"],
+    "genre": ["youth"],
+    "title": "California Youth Crisis Line",
+    "location": ["California"],
+    "address": ["https://calyouth.org/cycl/\n800-843-5200"],
+    "description": "Youth ages 13-24 can call or text 800-843-5200 or chat online for 24/7 crisis support"
+}, {
+    "crisis": false,
+    "type": ["phone"],
+    "genre": ["disability", "oldage"],
+    "title": "Friendship Line",
+    "location": ["United States"],
+    "address": ["Call 888-670-1360"],
+    "description": "24/7 support if you are 60 years or older or an adult living with disabilities"
+}, {
+    "crisis": false,
+    "type": ["phone"],
+    "genre": ["oldage"],
+    "title": "California aging and adult information line",
+    "location": ["California"],
+    "address": ["Call 800-510-2020"],
+    "description": "This toll-free statewide telephone number links older Californians and their caregivers to information and assistance in their own area. Calls are automatically routed to the appropriate AAA."
+}, {
+    "crisis": true,
+    "type": ["phone", "video", "chat"],
+    "genre": ["disability"],
+    "title": "National Suicide Prevention Deaf and Hard of Hearing Hotline",
+    "location": ["United States"],
+    "address": ["Access 24/7 video relay service by dialing 800-273-8255 (TTY 800-799-4889)"],
+    "description": "Deaf and Hard of Hearing people can chat online or via TTY"
+}, {
+    "crisis": false,
+    "type": ["organisation", "phone", "government", "email"],
+    "genre": ["drug misuse"],
+    "title": "Substance Abuse and Mental Health Services",
+    "location": ["United States"],
+    "address": ["www.samhsa.gov"],
+    "description": "It's a comprehensive national organization that will locate low-cost therapy options, support groups, and free mental health clinics, says Mallow. Also, don't be thrown off by the name if you're not seeking treatment for substance abuse — it's great for that too, but it has resources for tons of mental health issues."
+}, {
+    "crisis": false,
+    "type": ["information"],
+    "genre": [],
+    "title": "SAMHSA Treatment Locator",
+    "location": ["United States"],
+    "address": ["https://findtreatment.samhsa.gov/"],
+    "description": "A confidential and anonymous source of information for persons seeking treatment facilities in the United States or U.S. Territories for substance use/addiction and/or mental health problems."
+}, {
+    "crisis": false,
+    "type": ["phone", "text", "chat"],
+    "genre": ["lgbtq", "youth"],
+    "title": "Trevor Project",
+    "location": ["United States"],
+    "address": ["https://www.thetrevorproject.org/"],
+    "description": "The Trevor Project is the leading national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people under 25."
+}, {
+    "crisis": false,
+    "type": ["phone"],
+    "genre": ["lgbtq"],
+    "title": "LBQTQ Hotline",
+    "location": ["United States"],
+    "address": ["Call 800-273-8255"],
+    "description": "Support, Information or help finding resources for LGBTQ people"
+}, {
+    "crisis": false,
+    "type": ["phone", "text", "chat"],
+    "genre": [],
+    "title": "NYC Well",
+    "location": ["New York"],
+    "address": ["nycwell.cityofnewyork.us"],
+    "description": "Speak to a short term counselor in New York for free via chat, text or call. "
+}]
