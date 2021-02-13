@@ -15,7 +15,7 @@ createServer((req,res)=>{
             res.end();
             break;
     }
-}).listen(8000);
+}).listen(process.env.PORT || 3000 );
 async function notAllowed(req){
     return {
         status:405,
