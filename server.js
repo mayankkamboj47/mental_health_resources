@@ -14,6 +14,8 @@ createServer((req,res)=>{
             res.write("Post request")
             res.end();
             break;
+        default : 
+            notAllowed(req);
     }
 }).listen(process.env.PORT || 3000 );
 async function notAllowed(req){
