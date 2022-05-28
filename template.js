@@ -169,11 +169,11 @@ module.exports =  function(resources){
                     ...locations
                     );
                     let types_b = elt('div',{},
-                    elt('h3',{},"Types"),
+                    elt('h3',{},"Type of Support"),
                     ...types
                     );
                     let genres_b = elt('div',{},
-                    elt('h3',{},"Genres"),
+                    elt('h3',{},"Area in which you need help"),
                     ...genres
                     );
                     let submit_btn = elt('button',{'class':'filter_submit'},'Submit');
